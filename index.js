@@ -1,0 +1,1 @@
+alert ("Homosexual a la vista")
